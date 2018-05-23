@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 677b4bfba85e39d42a555c0c3dc346ee
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: polySurface1409
+    100002: polySurface1761
+    100004: polySurface1949
+    100006: polySurface1976
+    100008: polySurface1999
+    100010: polySurface2044
+    100012: polySurface2049
+    100014: polySurface2110
+    100016: polySurface2133
+    100018: polySurface2199
+    100020: polySurface2349
+    100022: polySurface2399
+    100024: polySurface3152
+    100026: polySurface3153
+    100028: polySurface3154
+    100030: polySurface3155
+    100032: polySurface3156
+    100034: polySurface3158
+    100036: polySurface3159
+    100038: polySurface3163
+    100040: polySurface3164
+    100042: polySurface3165
+    100044: polySurface3166
+    100046: polySurface3180
+    100048: polySurface382
+    100050: polySurface686
+    100052: polySurface749
+    100054: polySurface841
+    100056: polySurface899
+    100058: //RootNode
+    400000: polySurface1409
+    400002: polySurface1761
+    400004: polySurface1949
+    400006: polySurface1976
+    400008: polySurface1999
+    400010: polySurface2044
+    400012: polySurface2049
+    400014: polySurface2110
+    400016: polySurface2133
+    400018: polySurface2199
+    400020: polySurface2349
+    400022: polySurface2399
+    400024: polySurface3152
+    400026: polySurface3153
+    400028: polySurface3154
+    400030: polySurface3155
+    400032: polySurface3156
+    400034: polySurface3158
+    400036: polySurface3159
+    400038: polySurface3163
+    400040: polySurface3164
+    400042: polySurface3165
+    400044: polySurface3166
+    400046: polySurface3180
+    400048: polySurface382
+    400050: polySurface686
+    400052: polySurface749
+    400054: polySurface841
+    400056: polySurface899
+    400058: //RootNode
+    2100000: LongRocks
+    2100002: SmallRocks
+    2100004: MediumRocks
+    2300000: polySurface1409
+    2300002: polySurface1761
+    2300004: polySurface1949
+    2300006: polySurface1976
+    2300008: polySurface1999
+    2300010: polySurface2044
+    2300012: polySurface2049
+    2300014: polySurface2110
+    2300016: polySurface2133
+    2300018: polySurface2199
+    2300020: polySurface2349
+    2300022: polySurface2399
+    2300024: polySurface3152
+    2300026: polySurface3153
+    2300028: polySurface3154
+    2300030: polySurface3155
+    2300032: polySurface3156
+    2300034: polySurface3158
+    2300036: polySurface3159
+    2300038: polySurface3163
+    2300040: polySurface3164
+    2300042: polySurface3165
+    2300044: polySurface3166
+    2300046: polySurface3180
+    2300048: polySurface382
+    2300050: polySurface686
+    2300052: polySurface749
+    2300054: polySurface841
+    2300056: polySurface899
+    3300000: polySurface1409
+    3300002: polySurface1761
+    3300004: polySurface1949
+    3300006: polySurface1976
+    3300008: polySurface1999
+    3300010: polySurface2044
+    3300012: polySurface2049
+    3300014: polySurface2110
+    3300016: polySurface2133
+    3300018: polySurface2199
+    3300020: polySurface2349
+    3300022: polySurface2399
+    3300024: polySurface3152
+    3300026: polySurface3153
+    3300028: polySurface3154
+    3300030: polySurface3155
+    3300032: polySurface3156
+    3300034: polySurface3158
+    3300036: polySurface3159
+    3300038: polySurface3163
+    3300040: polySurface3164
+    3300042: polySurface3165
+    3300044: polySurface3166
+    3300046: polySurface3180
+    3300048: polySurface382
+    3300050: polySurface686
+    3300052: polySurface749
+    3300054: polySurface841
+    3300056: polySurface899
+    4300000: polySurface3166
+    4300002: polySurface3152
+    4300004: polySurface3153
+    4300006: polySurface3154
+    4300008: polySurface3155
+    4300010: polySurface3156
+    4300012: polySurface3158
+    4300014: polySurface3159
+    4300016: polySurface3163
+    4300018: polySurface3164
+    4300020: polySurface3165
+    4300022: polySurface841
+    4300024: polySurface749
+    4300026: polySurface686
+    4300028: polySurface2399
+    4300030: polySurface2199
+    4300032: polySurface1409
+    4300034: polySurface3180
+    4300036: polySurface2349
+    4300038: polySurface382
+    4300040: polySurface899
+    4300042: polySurface1976
+    4300044: polySurface1999
+    4300046: polySurface2044
+    4300048: polySurface1949
+    4300050: polySurface2049
+    4300052: polySurface2110
+    4300054: polySurface2133
+    4300056: polySurface1761
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: LongRocks
+    second: {fileID: 2100000, guid: b32f326f94db69040898fc6a3c6bf251, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MediumRocks
+    second: {fileID: 2100000, guid: 3d38ce0218873bb45ac9fbbfc4f3a942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SmallRocks
+    second: {fileID: 2100000, guid: 4c4d278e6693f054d872b14c6486a576, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
