@@ -1,0 +1,236 @@
+fileFormatVersion: 2
+guid: c27f3daeb0cd3234881539ced20c9543
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: DriveWayCurbLeft
+    100002: DrivewayCurbMid
+    100004: DriveWayCurbRight
+    100006: DriveWayLeft
+    100008: DrivewayMid
+    100010: DriveWayRight
+    100012: Sidewalk_Small1
+    100014: Sidewalk_Small2
+    100016: Sidewalk_Small3
+    100018: SidewalkCorner
+    100020: SidewalkCorner1
+    100022: SidewalkCurb_Small1
+    100024: SidewalkCurb_Small2
+    100026: SidewalkCurb_Small3
+    100028: SidewalkCurb_Small4
+    100030: SidewalkCurb_Small5
+    100032: //RootNode
+    100034: Sidewwalk_Long
+    100036: SidewwalkCurb_Long
+    100038: SidewalkCorner2
+    100040: SidewalkCornerLarge
+    100042: SidewalkCornerLargeWalk
+    100044: SidewalkCornerLargeWalkCurb
+    100046: SidewalkCurb_Large
+    100048: SidewalkCurb_Small1 1
+    100050: SidewalkCurb_Small1 2
+    100052: SidewalkDrivewayLeft
+    100054: SidewalkDrivewayLeftCurb
+    100056: SidewalkDrivewayRight
+    100058: SidewalkDrivewayRIghtCurb
+    400000: DriveWayCurbLeft
+    400002: DrivewayCurbMid
+    400004: DriveWayCurbRight
+    400006: DriveWayLeft
+    400008: DrivewayMid
+    400010: DriveWayRight
+    400012: Sidewalk_Small1
+    400014: Sidewalk_Small2
+    400016: Sidewalk_Small3
+    400018: SidewalkCorner
+    400020: SidewalkCorner1
+    400022: SidewalkCurb_Small1
+    400024: SidewalkCurb_Small2
+    400026: SidewalkCurb_Small3
+    400028: SidewalkCurb_Small4
+    400030: SidewalkCurb_Small5
+    400032: //RootNode
+    400034: Sidewwalk_Long
+    400036: SidewwalkCurb_Long
+    400038: SidewalkCorner2
+    400040: SidewalkCornerLarge
+    400042: SidewalkCornerLargeWalk
+    400044: SidewalkCornerLargeWalkCurb
+    400046: SidewalkCurb_Large
+    400048: SidewalkCurb_Small1 1
+    400050: SidewalkCurb_Small1 2
+    400052: SidewalkDrivewayLeft
+    400054: SidewalkDrivewayLeftCurb
+    400056: SidewalkDrivewayRight
+    400058: SidewalkDrivewayRIghtCurb
+    2100000: lambert1
+    2300000: DriveWayCurbLeft
+    2300002: DrivewayCurbMid
+    2300004: DriveWayCurbRight
+    2300006: DriveWayLeft
+    2300008: DrivewayMid
+    2300010: DriveWayRight
+    2300012: Sidewalk_Small1
+    2300014: Sidewalk_Small2
+    2300016: Sidewalk_Small3
+    2300018: SidewalkCorner
+    2300020: SidewalkCorner1
+    2300022: SidewalkCurb_Small1
+    2300024: SidewalkCurb_Small2
+    2300026: SidewalkCurb_Small3
+    2300028: SidewalkCurb_Small4
+    2300030: SidewalkCurb_Small5
+    2300032: Sidewwalk_Long
+    2300034: SidewwalkCurb_Long
+    2300036: SidewalkCorner2
+    2300038: SidewalkCornerLarge
+    2300040: SidewalkCornerLargeWalk
+    2300042: SidewalkCornerLargeWalkCurb
+    2300044: SidewalkCurb_Large
+    2300046: SidewalkCurb_Small1 1
+    2300048: SidewalkCurb_Small1 2
+    2300050: SidewalkDrivewayLeft
+    2300052: SidewalkDrivewayLeftCurb
+    2300054: SidewalkDrivewayRight
+    2300056: SidewalkDrivewayRIghtCurb
+    3300000: DriveWayCurbLeft
+    3300002: DrivewayCurbMid
+    3300004: DriveWayCurbRight
+    3300006: DriveWayLeft
+    3300008: DrivewayMid
+    3300010: DriveWayRight
+    3300012: Sidewalk_Small1
+    3300014: Sidewalk_Small2
+    3300016: Sidewalk_Small3
+    3300018: SidewalkCorner
+    3300020: SidewalkCorner1
+    3300022: SidewalkCurb_Small1
+    3300024: SidewalkCurb_Small2
+    3300026: SidewalkCurb_Small3
+    3300028: SidewalkCurb_Small4
+    3300030: SidewalkCurb_Small5
+    3300032: Sidewwalk_Long
+    3300034: SidewwalkCurb_Long
+    3300036: SidewalkCorner2
+    3300038: SidewalkCornerLarge
+    3300040: SidewalkCornerLargeWalk
+    3300042: SidewalkCornerLargeWalkCurb
+    3300044: SidewalkCurb_Large
+    3300046: SidewalkCurb_Small1 1
+    3300048: SidewalkCurb_Small1 2
+    3300050: SidewalkDrivewayLeft
+    3300052: SidewalkDrivewayLeftCurb
+    3300054: SidewalkDrivewayRight
+    3300056: SidewalkDrivewayRIghtCurb
+    4300000: Sidewalk_Small1
+    4300002: Sidewalk_Small2
+    4300004: Sidewalk_Small3
+    4300006: Sidewwalk_Long
+    4300008: SidewwalkCurb_Long
+    4300010: SidewalkCurb_Small3
+    4300012: SidewalkCurb_Small2
+    4300014: SidewalkCurb_Small1
+    4300016: DriveWayLeft
+    4300018: DriveWayRight
+    4300020: DriveWayCurbLeft
+    4300022: DriveWayCurbRight
+    4300024: DrivewayMid
+    4300026: DrivewayCurbMid
+    4300028: SidewalkCorner
+    4300030: SidewalkCurb_Small4
+    4300032: SidewalkCorner1
+    4300034: SidewalkCurb_Small5
+    4300036: SidewalkCurb_Small1
+    4300038: SidewalkCurb_Small1
+    4300040: SidewalkDrivewayLeft
+    4300042: SidewalkDrivewayLeftCurb
+    4300044: SidewalkDrivewayRight
+    4300046: SidewalkDrivewayRIghtCurb
+    4300048: SidewalkCornerLarge
+    4300050: SidewalkCurb_Large
+    4300052: SidewalkCorner2
+    4300054: SidewalkCornerLargeWalk
+    4300056: SidewalkCornerLargeWalkCurb
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

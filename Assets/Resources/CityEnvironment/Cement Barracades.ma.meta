@@ -1,0 +1,326 @@
+fileFormatVersion: 2
+guid: f26fd2948902f5e45847f727b6599435
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube1
+    100004: pCube2
+    100006: pCube3
+    100008: pTorus1
+    100010: pTorus1 1
+    100012: pTorus10
+    100014: pTorus10 1
+    100016: pTorus11
+    100018: pTorus11 1
+    100020: pTorus12
+    100022: pTorus12 1
+    100024: pTorus13
+    100026: pTorus13 1
+    100028: pTorus14
+    100030: pTorus14 1
+    100032: pTorus2
+    100034: pTorus2 1
+    100036: pTorus3
+    100038: pTorus3 1
+    100040: pTorus4
+    100042: pTorus4 1
+    100044: pTorus40
+    100046: pTorus40 1
+    100048: pTorus41
+    100050: pTorus41 1
+    100052: pTorus42
+    100054: pTorus42 1
+    100056: pTorus43
+    100058: pTorus43 1
+    100060: pTorus44
+    100062: pTorus44 1
+    100064: pTorus45
+    100066: pTorus45 1
+    100068: pTorus46
+    100070: pTorus47
+    100072: pTorus48
+    100074: pTorus48 1
+    100076: pTorus5
+    100078: pTorus5 1
+    100080: pTorus6
+    100082: pTorus7
+    100084: pTorus7 1
+    100086: pTorus8
+    100088: pTorus8 1
+    100090: pTorus9
+    100092: pTorus9 1
+    100094: Rebar1
+    100096: Rebar2
+    400000: //RootNode
+    400002: pCube1
+    400004: pCube2
+    400006: pCube3
+    400008: pTorus1
+    400010: pTorus1 1
+    400012: pTorus10
+    400014: pTorus10 1
+    400016: pTorus11
+    400018: pTorus11 1
+    400020: pTorus12
+    400022: pTorus12 1
+    400024: pTorus13
+    400026: pTorus13 1
+    400028: pTorus14
+    400030: pTorus14 1
+    400032: pTorus2
+    400034: pTorus2 1
+    400036: pTorus3
+    400038: pTorus3 1
+    400040: pTorus4
+    400042: pTorus4 1
+    400044: pTorus40
+    400046: pTorus40 1
+    400048: pTorus41
+    400050: pTorus41 1
+    400052: pTorus42
+    400054: pTorus42 1
+    400056: pTorus43
+    400058: pTorus43 1
+    400060: pTorus44
+    400062: pTorus44 1
+    400064: pTorus45
+    400066: pTorus45 1
+    400068: pTorus46
+    400070: pTorus47
+    400072: pTorus48
+    400074: pTorus48 1
+    400076: pTorus5
+    400078: pTorus5 1
+    400080: pTorus6
+    400082: pTorus7
+    400084: pTorus7 1
+    400086: pTorus8
+    400088: pTorus8 1
+    400090: pTorus9
+    400092: pTorus9 1
+    400094: Rebar1
+    400096: Rebar2
+    2100000: lambert1
+    2100002: Rusted_Rebar
+    2300000: pCube1
+    2300002: pCube2
+    2300004: pCube3
+    2300006: pTorus1
+    2300008: pTorus1 1
+    2300010: pTorus10
+    2300012: pTorus10 1
+    2300014: pTorus11
+    2300016: pTorus11 1
+    2300018: pTorus12
+    2300020: pTorus12 1
+    2300022: pTorus13
+    2300024: pTorus13 1
+    2300026: pTorus14
+    2300028: pTorus14 1
+    2300030: pTorus2
+    2300032: pTorus2 1
+    2300034: pTorus3
+    2300036: pTorus3 1
+    2300038: pTorus4
+    2300040: pTorus4 1
+    2300042: pTorus40
+    2300044: pTorus40 1
+    2300046: pTorus41
+    2300048: pTorus41 1
+    2300050: pTorus42
+    2300052: pTorus42 1
+    2300054: pTorus43
+    2300056: pTorus43 1
+    2300058: pTorus44
+    2300060: pTorus44 1
+    2300062: pTorus45
+    2300064: pTorus45 1
+    2300066: pTorus46
+    2300068: pTorus47
+    2300070: pTorus48
+    2300072: pTorus48 1
+    2300074: pTorus5
+    2300076: pTorus5 1
+    2300078: pTorus6
+    2300080: pTorus7
+    2300082: pTorus7 1
+    2300084: pTorus8
+    2300086: pTorus8 1
+    2300088: pTorus9
+    2300090: pTorus9 1
+    3300000: pCube1
+    3300002: pCube2
+    3300004: pCube3
+    3300006: pTorus1
+    3300008: pTorus1 1
+    3300010: pTorus10
+    3300012: pTorus10 1
+    3300014: pTorus11
+    3300016: pTorus11 1
+    3300018: pTorus12
+    3300020: pTorus12 1
+    3300022: pTorus13
+    3300024: pTorus13 1
+    3300026: pTorus14
+    3300028: pTorus14 1
+    3300030: pTorus2
+    3300032: pTorus2 1
+    3300034: pTorus3
+    3300036: pTorus3 1
+    3300038: pTorus4
+    3300040: pTorus4 1
+    3300042: pTorus40
+    3300044: pTorus40 1
+    3300046: pTorus41
+    3300048: pTorus41 1
+    3300050: pTorus42
+    3300052: pTorus42 1
+    3300054: pTorus43
+    3300056: pTorus43 1
+    3300058: pTorus44
+    3300060: pTorus44 1
+    3300062: pTorus45
+    3300064: pTorus45 1
+    3300066: pTorus46
+    3300068: pTorus47
+    3300070: pTorus48
+    3300072: pTorus48 1
+    3300074: pTorus5
+    3300076: pTorus5 1
+    3300078: pTorus6
+    3300080: pTorus7
+    3300082: pTorus7 1
+    3300084: pTorus8
+    3300086: pTorus8 1
+    3300088: pTorus9
+    3300090: pTorus9 1
+    4300000: pCube1
+    4300002: pCube2
+    4300004: pTorus14
+    4300006: pTorus13
+    4300008: pTorus12
+    4300010: pTorus11
+    4300012: pTorus10
+    4300014: pTorus9
+    4300016: pTorus8
+    4300018: pTorus7
+    4300020: pTorus5
+    4300022: pTorus4
+    4300024: pTorus3
+    4300026: pTorus2
+    4300028: pTorus1
+    4300030: pTorus43
+    4300032: pTorus42
+    4300034: pTorus41
+    4300036: pTorus40
+    4300038: pTorus44
+    4300040: pTorus45
+    4300042: pTorus48
+    4300044: pCube3
+    4300046: pTorus14
+    4300048: pTorus13
+    4300050: pTorus12
+    4300052: pTorus11
+    4300054: pTorus10
+    4300056: pTorus9
+    4300058: pTorus8
+    4300060: pTorus7
+    4300062: pTorus6
+    4300064: pTorus5
+    4300066: pTorus4
+    4300068: pTorus3
+    4300070: pTorus2
+    4300072: pTorus1
+    4300074: pTorus43
+    4300076: pTorus42
+    4300078: pTorus41
+    4300080: pTorus40
+    4300082: pTorus44
+    4300084: pTorus45
+    4300086: pTorus46
+    4300088: pTorus47
+    4300090: pTorus48
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
