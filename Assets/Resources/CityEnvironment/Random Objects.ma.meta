@@ -1,0 +1,263 @@
+fileFormatVersion: 2
+guid: 6eb99048e962fa64c8841b047225e0d4
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: CardboardBox
+    100002: CinderBlock
+    100004: CinderBlock 1
+    100006: CinderBlockBroken
+    100008: Hanging_Trash_Bag
+    100010: Large_Box_Open
+    100012: Large_Tire
+    100014: Large_Trash_Bag
+    100016: LargeBox_Sealed
+    100018: Newspaper_Dispenser
+    100020: Paper
+    100022: pCube37
+    100024: pCube38
+    100026: pCube42
+    100028: pCube43
+    100030: pCube44
+    100032: pCube46
+    100034: pCube47
+    100036: pCube48
+    100038: pCube50
+    100040: pCube51
+    100042: pCube52
+    100044: pCylinder8
+    100046: polySurface10
+    100048: polySurface11
+    100050: polySurface12
+    100052: polySurface3
+    100054: polySurface4
+    100056: polySurface5
+    100058: polySurface6
+    100060: polySurface9
+    100062: //RootNode
+    100064: Small_Box_Open
+    100066: Small_Tire
+    100068: Small_Trash_Bag
+    100070: SmallBox_Sealed
+    100072: Tires
+    100074: TrashBag
+    400000: CardboardBox
+    400002: CinderBlock
+    400004: CinderBlock 1
+    400006: CinderBlockBroken
+    400008: Hanging_Trash_Bag
+    400010: Large_Box_Open
+    400012: Large_Tire
+    400014: Large_Trash_Bag
+    400016: LargeBox_Sealed
+    400018: Newspaper_Dispenser
+    400020: Paper
+    400022: pCube37
+    400024: pCube38
+    400026: pCube42
+    400028: pCube43
+    400030: pCube44
+    400032: pCube46
+    400034: pCube47
+    400036: pCube48
+    400038: pCube50
+    400040: pCube51
+    400042: pCube52
+    400044: pCylinder8
+    400046: polySurface10
+    400048: polySurface11
+    400050: polySurface12
+    400052: polySurface3
+    400054: polySurface4
+    400056: polySurface5
+    400058: polySurface6
+    400060: polySurface9
+    400062: //RootNode
+    400064: Small_Box_Open
+    400066: Small_Tire
+    400068: Small_Trash_Bag
+    400070: SmallBox_Sealed
+    400072: Tires
+    400074: TrashBag
+    2100000: lambert1
+    2100002: Papers
+    2100004: RubberTire
+    2100006: Trash
+    2100008: Cardboard
+    2100010: CinderBlockMat
+    2300000: CinderBlock 1
+    2300002: CinderBlockBroken
+    2300004: Hanging_Trash_Bag
+    2300006: Large_Box_Open
+    2300008: Large_Tire
+    2300010: Large_Trash_Bag
+    2300012: LargeBox_Sealed
+    2300014: pCube37
+    2300016: pCube38
+    2300018: pCube42
+    2300020: pCube43
+    2300022: pCube44
+    2300024: pCube46
+    2300026: pCube47
+    2300028: pCube48
+    2300030: pCube50
+    2300032: pCube51
+    2300034: pCube52
+    2300036: pCylinder8
+    2300038: polySurface10
+    2300040: polySurface11
+    2300042: polySurface12
+    2300044: polySurface3
+    2300046: polySurface4
+    2300048: polySurface5
+    2300050: polySurface6
+    2300052: polySurface9
+    2300054: Small_Box_Open
+    2300056: Small_Tire
+    2300058: Small_Trash_Bag
+    2300060: SmallBox_Sealed
+    3300000: CinderBlock 1
+    3300002: CinderBlockBroken
+    3300004: Hanging_Trash_Bag
+    3300006: Large_Box_Open
+    3300008: Large_Tire
+    3300010: Large_Trash_Bag
+    3300012: LargeBox_Sealed
+    3300014: pCube37
+    3300016: pCube38
+    3300018: pCube42
+    3300020: pCube43
+    3300022: pCube44
+    3300024: pCube46
+    3300026: pCube47
+    3300028: pCube48
+    3300030: pCube50
+    3300032: pCube51
+    3300034: pCube52
+    3300036: pCylinder8
+    3300038: polySurface10
+    3300040: polySurface11
+    3300042: polySurface12
+    3300044: polySurface3
+    3300046: polySurface4
+    3300048: polySurface5
+    3300050: polySurface6
+    3300052: polySurface9
+    3300054: Small_Box_Open
+    3300056: Small_Tire
+    3300058: Small_Trash_Bag
+    3300060: SmallBox_Sealed
+    4300000: pCylinder8
+    4300002: pCube50
+    4300004: pCube46
+    4300006: pCube47
+    4300008: pCube51
+    4300010: pCube44
+    4300012: pCube48
+    4300014: pCube52
+    4300016: pCube38
+    4300018: pCube37
+    4300020: pCube43
+    4300022: pCube42
+    4300024: Large_Tire
+    4300026: Small_Tire
+    4300028: Hanging_Trash_Bag
+    4300030: Large_Trash_Bag
+    4300032: Small_Trash_Bag
+    4300034: LargeBox_Sealed
+    4300036: SmallBox_Sealed
+    4300038: polySurface6
+    4300040: polySurface5
+    4300042: polySurface12
+    4300044: polySurface11
+    4300046: polySurface10
+    4300048: polySurface4
+    4300050: polySurface9
+    4300052: Large_Box_Open
+    4300054: polySurface3
+    4300056: Small_Box_Open
+    4300058: CinderBlock
+    4300060: CinderBlockBroken
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,12 +1,12 @@
 fileFormatVersion: 2
-guid: 486a54d7949faec40ac1853e622a7dd3
+guid: 07f9c226345420540bf85b271fd3b434
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: //RootNode
-    100002: Group1
-    400000: //RootNode
-    400002: Group1
+    100000: Group1
+    100002: //RootNode
+    400000: Group1
+    400002: //RootNode
     2100000: Group1Mat
     2300000: Group1
     3300000: Group1

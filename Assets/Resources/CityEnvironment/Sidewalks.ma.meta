@@ -1,156 +1,121 @@
 fileFormatVersion: 2
-guid: c27f3daeb0cd3234881539ced20c9543
+guid: 54e0141e10e79814096b3cb9d3f026b7
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
-    100000: DriveWayCurbLeft
-    100002: DrivewayCurbMid
-    100004: DriveWayCurbRight
-    100006: DriveWayLeft
-    100008: DrivewayMid
-    100010: DriveWayRight
-    100012: Sidewalk_Small1
-    100014: Sidewalk_Small2
-    100016: Sidewalk_Small3
-    100018: SidewalkCorner
-    100020: SidewalkCorner1
+    100000: DrivewayCurbMid
+    100002: DrivewayMid
+    100004: Sidewalk_Small1
+    100006: Sidewalk_Small2
+    100008: Sidewalk_Small3
+    100010: SidewalkCorner1
+    100012: SidewalkCorner2
+    100014: SidewalkCornerLarge
+    100016: SidewalkCornerLargeWalk
+    100018: SidewalkCornerLargeWalkCurb
+    100020: SidewalkCurb_Large
     100022: SidewalkCurb_Small1
-    100024: SidewalkCurb_Small2
-    100026: SidewalkCurb_Small3
+    100024: SidewalkCurb_Small1 1
+    100026: SidewalkCurb_Small1 2
     100028: SidewalkCurb_Small4
     100030: SidewalkCurb_Small5
-    100032: //RootNode
-    100034: Sidewwalk_Long
-    100036: SidewwalkCurb_Long
-    100038: SidewalkCorner2
-    100040: SidewalkCornerLarge
-    100042: SidewalkCornerLargeWalk
-    100044: SidewalkCornerLargeWalkCurb
-    100046: SidewalkCurb_Large
-    100048: SidewalkCurb_Small1 1
-    100050: SidewalkCurb_Small1 2
-    100052: SidewalkDrivewayLeft
-    100054: SidewalkDrivewayLeftCurb
-    100056: SidewalkDrivewayRight
-    100058: SidewalkDrivewayRIghtCurb
-    400000: DriveWayCurbLeft
-    400002: DrivewayCurbMid
-    400004: DriveWayCurbRight
-    400006: DriveWayLeft
-    400008: DrivewayMid
-    400010: DriveWayRight
-    400012: Sidewalk_Small1
-    400014: Sidewalk_Small2
-    400016: Sidewalk_Small3
-    400018: SidewalkCorner
-    400020: SidewalkCorner1
+    100032: SidewalkDrivewayLeft
+    100034: SidewalkDrivewayLeftCurb
+    100036: SidewalkDrivewayRight
+    100038: SidewalkDrivewayRIghtCurb
+    100040: //RootNode
+    100042: Sidewwalk_Long
+    100044: SidewwalkCurb_Long
+    400000: DrivewayCurbMid
+    400002: DrivewayMid
+    400004: Sidewalk_Small1
+    400006: Sidewalk_Small2
+    400008: Sidewalk_Small3
+    400010: SidewalkCorner1
+    400012: SidewalkCorner2
+    400014: SidewalkCornerLarge
+    400016: SidewalkCornerLargeWalk
+    400018: SidewalkCornerLargeWalkCurb
+    400020: SidewalkCurb_Large
     400022: SidewalkCurb_Small1
-    400024: SidewalkCurb_Small2
-    400026: SidewalkCurb_Small3
+    400024: SidewalkCurb_Small1 1
+    400026: SidewalkCurb_Small1 2
     400028: SidewalkCurb_Small4
     400030: SidewalkCurb_Small5
-    400032: //RootNode
-    400034: Sidewwalk_Long
-    400036: SidewwalkCurb_Long
-    400038: SidewalkCorner2
-    400040: SidewalkCornerLarge
-    400042: SidewalkCornerLargeWalk
-    400044: SidewalkCornerLargeWalkCurb
-    400046: SidewalkCurb_Large
-    400048: SidewalkCurb_Small1 1
-    400050: SidewalkCurb_Small1 2
-    400052: SidewalkDrivewayLeft
-    400054: SidewalkDrivewayLeftCurb
-    400056: SidewalkDrivewayRight
-    400058: SidewalkDrivewayRIghtCurb
+    400032: SidewalkDrivewayLeft
+    400034: SidewalkDrivewayLeftCurb
+    400036: SidewalkDrivewayRight
+    400038: SidewalkDrivewayRIghtCurb
+    400040: //RootNode
+    400042: Sidewwalk_Long
+    400044: SidewwalkCurb_Long
     2100000: lambert1
-    2300000: DriveWayCurbLeft
-    2300002: DrivewayCurbMid
-    2300004: DriveWayCurbRight
-    2300006: DriveWayLeft
-    2300008: DrivewayMid
-    2300010: DriveWayRight
-    2300012: Sidewalk_Small1
-    2300014: Sidewalk_Small2
-    2300016: Sidewalk_Small3
-    2300018: SidewalkCorner
-    2300020: SidewalkCorner1
+    2300000: DrivewayCurbMid
+    2300002: DrivewayMid
+    2300004: Sidewalk_Small1
+    2300006: Sidewalk_Small2
+    2300008: Sidewalk_Small3
+    2300010: SidewalkCorner1
+    2300012: SidewalkCorner2
+    2300014: SidewalkCornerLarge
+    2300016: SidewalkCornerLargeWalk
+    2300018: SidewalkCornerLargeWalkCurb
+    2300020: SidewalkCurb_Large
     2300022: SidewalkCurb_Small1
-    2300024: SidewalkCurb_Small2
-    2300026: SidewalkCurb_Small3
+    2300024: SidewalkCurb_Small1 1
+    2300026: SidewalkCurb_Small1 2
     2300028: SidewalkCurb_Small4
     2300030: SidewalkCurb_Small5
-    2300032: Sidewwalk_Long
-    2300034: SidewwalkCurb_Long
-    2300036: SidewalkCorner2
-    2300038: SidewalkCornerLarge
-    2300040: SidewalkCornerLargeWalk
-    2300042: SidewalkCornerLargeWalkCurb
-    2300044: SidewalkCurb_Large
-    2300046: SidewalkCurb_Small1 1
-    2300048: SidewalkCurb_Small1 2
-    2300050: SidewalkDrivewayLeft
-    2300052: SidewalkDrivewayLeftCurb
-    2300054: SidewalkDrivewayRight
-    2300056: SidewalkDrivewayRIghtCurb
-    3300000: DriveWayCurbLeft
-    3300002: DrivewayCurbMid
-    3300004: DriveWayCurbRight
-    3300006: DriveWayLeft
-    3300008: DrivewayMid
-    3300010: DriveWayRight
-    3300012: Sidewalk_Small1
-    3300014: Sidewalk_Small2
-    3300016: Sidewalk_Small3
-    3300018: SidewalkCorner
-    3300020: SidewalkCorner1
+    2300032: SidewalkDrivewayLeft
+    2300034: SidewalkDrivewayLeftCurb
+    2300036: SidewalkDrivewayRight
+    2300038: SidewalkDrivewayRIghtCurb
+    2300040: Sidewwalk_Long
+    2300042: SidewwalkCurb_Long
+    3300000: DrivewayCurbMid
+    3300002: DrivewayMid
+    3300004: Sidewalk_Small1
+    3300006: Sidewalk_Small2
+    3300008: Sidewalk_Small3
+    3300010: SidewalkCorner1
+    3300012: SidewalkCorner2
+    3300014: SidewalkCornerLarge
+    3300016: SidewalkCornerLargeWalk
+    3300018: SidewalkCornerLargeWalkCurb
+    3300020: SidewalkCurb_Large
     3300022: SidewalkCurb_Small1
-    3300024: SidewalkCurb_Small2
-    3300026: SidewalkCurb_Small3
+    3300024: SidewalkCurb_Small1 1
+    3300026: SidewalkCurb_Small1 2
     3300028: SidewalkCurb_Small4
     3300030: SidewalkCurb_Small5
-    3300032: Sidewwalk_Long
-    3300034: SidewwalkCurb_Long
-    3300036: SidewalkCorner2
-    3300038: SidewalkCornerLarge
-    3300040: SidewalkCornerLargeWalk
-    3300042: SidewalkCornerLargeWalkCurb
-    3300044: SidewalkCurb_Large
-    3300046: SidewalkCurb_Small1 1
-    3300048: SidewalkCurb_Small1 2
-    3300050: SidewalkDrivewayLeft
-    3300052: SidewalkDrivewayLeftCurb
-    3300054: SidewalkDrivewayRight
-    3300056: SidewalkDrivewayRIghtCurb
+    3300032: SidewalkDrivewayLeft
+    3300034: SidewalkDrivewayLeftCurb
+    3300036: SidewalkDrivewayRight
+    3300038: SidewalkDrivewayRIghtCurb
+    3300040: Sidewwalk_Long
+    3300042: SidewwalkCurb_Long
     4300000: Sidewalk_Small1
-    4300002: Sidewalk_Small2
-    4300004: Sidewalk_Small3
-    4300006: Sidewwalk_Long
-    4300008: SidewwalkCurb_Long
-    4300010: SidewalkCurb_Small3
-    4300012: SidewalkCurb_Small2
-    4300014: SidewalkCurb_Small1
-    4300016: DriveWayLeft
-    4300018: DriveWayRight
-    4300020: DriveWayCurbLeft
-    4300022: DriveWayCurbRight
+    4300002: SidewalkCurb_Small1
+    4300004: Sidewalk_Small2
+    4300006: SidewalkCurb_Small1
+    4300008: Sidewalk_Small3
+    4300010: SidewalkCurb_Small1
+    4300012: Sidewwalk_Long
+    4300014: SidewwalkCurb_Long
+    4300016: SidewalkDrivewayLeft
+    4300018: SidewalkDrivewayLeftCurb
+    4300020: SidewalkDrivewayRight
+    4300022: SidewalkDrivewayRIghtCurb
     4300024: DrivewayMid
     4300026: DrivewayCurbMid
-    4300028: SidewalkCorner
-    4300030: SidewalkCurb_Small4
+    4300028: SidewalkCornerLarge
+    4300030: SidewalkCurb_Large
     4300032: SidewalkCorner1
     4300034: SidewalkCurb_Small5
-    4300036: SidewalkCurb_Small1
-    4300038: SidewalkCurb_Small1
-    4300040: SidewalkDrivewayLeft
-    4300042: SidewalkDrivewayLeftCurb
-    4300044: SidewalkDrivewayRight
-    4300046: SidewalkDrivewayRIghtCurb
-    4300048: SidewalkCornerLarge
-    4300050: SidewalkCurb_Large
-    4300052: SidewalkCorner2
-    4300054: SidewalkCornerLargeWalk
-    4300056: SidewalkCornerLargeWalkCurb
+    4300036: SidewalkCorner2
+    4300038: SidewalkCurb_Small4
+    4300040: SidewalkCornerLargeWalk
+    4300042: SidewalkCornerLargeWalkCurb
   externalObjects: {}
   materials:
     importMaterials: 1
