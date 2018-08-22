@@ -22,6 +22,27 @@ ModelImporter:
     100032: polySurface8
     100034: polySurface9
     100036: //RootNode
+    100038: Green_Light_1
+    100040: Green_Light_2
+    100042: Green_Light_3
+    100044: NewHousing1
+    100046: NewHousing2
+    100048: NewHousing3
+    100050: Old_Housing_1
+    100052: Old_Housing_2
+    100054: Old_Housing_3
+    100056: Old_Housing_4
+    100058: Old_Housing_5
+    100060: Old_Housing_6
+    100062: Red_Light_1
+    100064: Red_Light_2
+    100066: Red_Light_3
+    100068: TrafficLightBroken
+    100070: TrafficLightNew
+    100072: TrafficLightOld
+    100074: Yellow_Light_1
+    100076: Yellow_Light_2
+    100078: Yellow_Light_3
     400000: pCube1
     400002: pCube2
     400004: pCube3
@@ -41,6 +62,27 @@ ModelImporter:
     400032: polySurface8
     400034: polySurface9
     400036: //RootNode
+    400038: Green_Light_1
+    400040: Green_Light_2
+    400042: Green_Light_3
+    400044: NewHousing1
+    400046: NewHousing2
+    400048: NewHousing3
+    400050: Old_Housing_1
+    400052: Old_Housing_2
+    400054: Old_Housing_3
+    400056: Old_Housing_4
+    400058: Old_Housing_5
+    400060: Old_Housing_6
+    400062: Red_Light_1
+    400064: Red_Light_2
+    400066: Red_Light_3
+    400068: TrafficLightBroken
+    400070: TrafficLightNew
+    400072: TrafficLightOld
+    400074: Yellow_Light_1
+    400076: Yellow_Light_2
+    400078: Yellow_Light_3
     2100000: StreetLightYellow
     2100002: Black
     2100004: Green_Light
@@ -64,6 +106,27 @@ ModelImporter:
     2300030: polySurface7
     2300032: polySurface8
     2300034: polySurface9
+    2300036: Green_Light_1
+    2300038: Green_Light_2
+    2300040: Green_Light_3
+    2300042: NewHousing1
+    2300044: NewHousing2
+    2300046: NewHousing3
+    2300048: Old_Housing_1
+    2300050: Old_Housing_2
+    2300052: Old_Housing_3
+    2300054: Old_Housing_4
+    2300056: Old_Housing_5
+    2300058: Old_Housing_6
+    2300060: Red_Light_1
+    2300062: Red_Light_2
+    2300064: Red_Light_3
+    2300066: TrafficLightBroken
+    2300068: TrafficLightNew
+    2300070: TrafficLightOld
+    2300072: Yellow_Light_1
+    2300074: Yellow_Light_2
+    2300076: Yellow_Light_3
     3300000: pCube1
     3300002: pCube2
     3300004: pCube3
@@ -82,6 +145,27 @@ ModelImporter:
     3300030: polySurface7
     3300032: polySurface8
     3300034: polySurface9
+    3300036: Green_Light_1
+    3300038: Green_Light_2
+    3300040: Green_Light_3
+    3300042: NewHousing1
+    3300044: NewHousing2
+    3300046: NewHousing3
+    3300048: Old_Housing_1
+    3300050: Old_Housing_2
+    3300052: Old_Housing_3
+    3300054: Old_Housing_4
+    3300056: Old_Housing_5
+    3300058: Old_Housing_6
+    3300060: Red_Light_1
+    3300062: Red_Light_2
+    3300064: Red_Light_3
+    3300066: TrafficLightBroken
+    3300068: TrafficLightNew
+    3300070: TrafficLightOld
+    3300072: Yellow_Light_1
+    3300074: Yellow_Light_2
+    3300076: Yellow_Light_3
     4300000: polySurface15
     4300002: polySurface5
     4300004: polySurface7
@@ -100,6 +184,27 @@ ModelImporter:
     4300030: polySurface1
     4300032: polySurface16
     4300034: polySurface9
+    4300036: TrafficLightNew
+    4300038: NewHousing1
+    4300040: Red_Light_1
+    4300042: NewHousing2
+    4300044: Yellow_Light_1
+    4300046: NewHousing3
+    4300048: Green_Light_1
+    4300050: TrafficLightOld
+    4300052: Old_Housing_1
+    4300054: Red_Light_2
+    4300056: Old_Housing_2
+    4300058: Yellow_Light_2
+    4300060: Old_Housing_3
+    4300062: Green_Light_2
+    4300064: TrafficLightBroken
+    4300066: Old_Housing_4
+    4300068: Red_Light_3
+    4300070: Old_Housing_5
+    4300072: Yellow_Light_3
+    4300074: Old_Housing_6
+    4300076: Green_Light_3
   externalObjects: {}
   materials:
     importMaterials: 1

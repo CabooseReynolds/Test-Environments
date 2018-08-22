@@ -48,6 +48,37 @@ ModelImporter:
     100084: pSphere23
     100086: pSphere29
     100088: pSphere30
+    100090: FlagBanner
+    100092: LampGlassBroken
+    100094: LampGlassNew
+    100096: LampMetal1
+    100098: LampMetal2
+    100100: StreetLampBase1
+    100102: StreetLampBent1
+    100104: StreetLampBent2
+    100106: StreetLampBentLong1
+    100108: StreetLampStraight1
+    100110: StreetLampStraightLong1
+    100112: StreetLightBase1
+    100114: StreetLightBase2
+    100116: StreetLightBase3
+    100118: StreetLightBase4
+    100120: StreetLightGlassBroken1
+    100122: StreetLightGlassBroken2
+    100124: StreetLightGlassBroken3
+    100126: StreetLightLamp1
+    100128: StreetLightLamp2
+    100130: StreetLightLamp3
+    100132: StreetLightPole1
+    100134: StreetLightPole2
+    100136: StreetLightPole3
+    100138: StreetLightPole4
+    100140: TrafficLightBase1
+    100142: TrafficLightBase2
+    100144: TrafficLightBase3
+    100146: TrafficLightPole1
+    100148: TrafficLightPole2
+    100150: TrafficLightPole3
     400000: //RootNode
     400002: pCylinder31
     400004: pCylinder32
@@ -93,6 +124,37 @@ ModelImporter:
     400084: pSphere23
     400086: pSphere29
     400088: pSphere30
+    400090: FlagBanner
+    400092: LampGlassBroken
+    400094: LampGlassNew
+    400096: LampMetal1
+    400098: LampMetal2
+    400100: StreetLampBase1
+    400102: StreetLampBent1
+    400104: StreetLampBent2
+    400106: StreetLampBentLong1
+    400108: StreetLampStraight1
+    400110: StreetLampStraightLong1
+    400112: StreetLightBase1
+    400114: StreetLightBase2
+    400116: StreetLightBase3
+    400118: StreetLightBase4
+    400120: StreetLightGlassBroken1
+    400122: StreetLightGlassBroken2
+    400124: StreetLightGlassBroken3
+    400126: StreetLightLamp1
+    400128: StreetLightLamp2
+    400130: StreetLightLamp3
+    400132: StreetLightPole1
+    400134: StreetLightPole2
+    400136: StreetLightPole3
+    400138: StreetLightPole4
+    400140: TrafficLightBase1
+    400142: TrafficLightBase2
+    400144: TrafficLightBase3
+    400146: TrafficLightPole1
+    400148: TrafficLightPole2
+    400150: TrafficLightPole3
     2100000: GreenPoleMetal
     2100002: Glass
     2100004: DarkMetal
@@ -134,6 +196,37 @@ ModelImporter:
     2300064: polySurface6
     2300066: pSphere23
     2300068: pSphere29
+    2300070: FlagBanner
+    2300072: LampGlassBroken
+    2300074: LampGlassNew
+    2300076: LampMetal1
+    2300078: LampMetal2
+    2300080: StreetLampBase1
+    2300082: StreetLampBent1
+    2300084: StreetLampBent2
+    2300086: StreetLampBentLong1
+    2300088: StreetLampStraight1
+    2300090: StreetLampStraightLong1
+    2300092: StreetLightBase1
+    2300094: StreetLightBase2
+    2300096: StreetLightBase3
+    2300098: StreetLightBase4
+    2300100: StreetLightGlassBroken1
+    2300102: StreetLightGlassBroken2
+    2300104: StreetLightGlassBroken3
+    2300106: StreetLightLamp1
+    2300108: StreetLightLamp2
+    2300110: StreetLightLamp3
+    2300112: StreetLightPole1
+    2300114: StreetLightPole2
+    2300116: StreetLightPole3
+    2300118: StreetLightPole4
+    2300120: TrafficLightBase1
+    2300122: TrafficLightBase2
+    2300124: TrafficLightBase3
+    2300126: TrafficLightPole1
+    2300128: TrafficLightPole2
+    2300130: TrafficLightPole3
     3300000: pCylinder33
     3300002: pCylinder5
     3300004: polySurface12
@@ -169,6 +262,37 @@ ModelImporter:
     3300064: polySurface6
     3300066: pSphere23
     3300068: pSphere29
+    3300070: FlagBanner
+    3300072: LampGlassBroken
+    3300074: LampGlassNew
+    3300076: LampMetal1
+    3300078: LampMetal2
+    3300080: StreetLampBase1
+    3300082: StreetLampBent1
+    3300084: StreetLampBent2
+    3300086: StreetLampBentLong1
+    3300088: StreetLampStraight1
+    3300090: StreetLampStraightLong1
+    3300092: StreetLightBase1
+    3300094: StreetLightBase2
+    3300096: StreetLightBase3
+    3300098: StreetLightBase4
+    3300100: StreetLightGlassBroken1
+    3300102: StreetLightGlassBroken2
+    3300104: StreetLightGlassBroken3
+    3300106: StreetLightLamp1
+    3300108: StreetLightLamp2
+    3300110: StreetLightLamp3
+    3300112: StreetLightPole1
+    3300114: StreetLightPole2
+    3300116: StreetLightPole3
+    3300118: StreetLightPole4
+    3300120: TrafficLightBase1
+    3300122: TrafficLightBase2
+    3300124: TrafficLightBase3
+    3300126: TrafficLightPole1
+    3300128: TrafficLightPole2
+    3300130: TrafficLightPole3
     4300000: pCylinder5
     4300002: pSphere23
     4300004: polySurface5
@@ -204,6 +328,37 @@ ModelImporter:
     4300064: pCylinder33
     4300066: polySurface46
     4300068: polySurface54
+    4300070: TrafficLightBase1
+    4300072: TrafficLightPole1
+    4300074: TrafficLightBase2
+    4300076: TrafficLightPole2
+    4300078: TrafficLightBase3
+    4300080: TrafficLightPole3
+    4300082: StreetLightBase1
+    4300084: StreetLightPole1
+    4300086: StreetLightBase2
+    4300088: StreetLightPole2
+    4300090: StreetLightBase3
+    4300092: StreetLightPole3
+    4300094: StreetLightBase4
+    4300096: StreetLightPole4
+    4300098: StreetLightLamp1
+    4300100: StreetLightGlassBroken1
+    4300102: StreetLightLamp2
+    4300104: StreetLightGlassBroken2
+    4300106: StreetLightLamp3
+    4300108: StreetLightGlassBroken3
+    4300110: StreetLampBent1
+    4300112: StreetLampBase1
+    4300114: LampGlassBroken
+    4300116: FlagBanner
+    4300118: StreetLampStraight1
+    4300120: StreetLampStraightLong1
+    4300122: StreetLampBentLong1
+    4300124: LampGlassNew
+    4300126: StreetLampBent2
+    4300128: LampMetal1
+    4300130: LampMetal2
   externalObjects: {}
   materials:
     importMaterials: 1

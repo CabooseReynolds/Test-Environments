@@ -50,6 +50,7 @@ ModelImporter:
     400042: Sidewwalk_Long
     400044: SidewwalkCurb_Long
     2100000: lambert1
+    2100002: SidewalkMat
     2300000: DrivewayCurbMid
     2300002: DrivewayMid
     2300004: Sidewalk_Small1

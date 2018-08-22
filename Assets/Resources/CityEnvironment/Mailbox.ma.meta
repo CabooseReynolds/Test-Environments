@@ -29,6 +29,7 @@ ModelImporter:
     100046: transform7
     100048: transform8
     100050: USPSBox
+    100052: StreetPublicMailbox
     400000: BuildingMailBoxSmall
     400002: BuildingMailboxWide
     400004: Lid
@@ -55,7 +56,9 @@ ModelImporter:
     400046: transform7
     400048: transform8
     400050: USPSBox
+    400052: StreetPublicMailbox
     2100000: lambert1
+    2100002: MailboxMats
     2300000: Lid
     2300002: Lid1
     2300004: MailBox
@@ -63,6 +66,7 @@ ModelImporter:
     2300008: NewspaperholderBroken
     2300010: NewspaperholderNew
     2300012: polySurface9
+    2300014: StreetPublicMailbox
     3300000: Lid
     3300002: Lid1
     3300004: MailBox
@@ -70,6 +74,7 @@ ModelImporter:
     3300008: NewspaperholderBroken
     3300010: NewspaperholderNew
     3300012: polySurface9
+    3300014: StreetPublicMailbox
     4300000: Lid1
     4300002: MailBox1
     4300004: Lid
@@ -77,6 +82,7 @@ ModelImporter:
     4300008: NewspaperholderBroken
     4300010: MailBox
     4300012: polySurface9
+    4300014: StreetPublicMailbox
   externalObjects: {}
   materials:
     importMaterials: 1
